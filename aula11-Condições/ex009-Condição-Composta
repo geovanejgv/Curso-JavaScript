@@ -1,0 +1,7 @@
+var país = 'Brasil'
+    console.log(`Vivendo em ${país}`)
+if (país == 'Brasil') {// == este simbolo significa igual; != este simbolo sign diferente
+        console.log('Você é Brasileiro')
+} else {
+        console.log("Você é Estrangeiro")
+}
